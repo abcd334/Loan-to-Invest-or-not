@@ -26,7 +26,7 @@ price=round(rd.uniform(Expect_Price_Low,Expect_Price_High),2)
 
 data=pd.DataFrame()
 
-for sample in range(1,1000):
+for sample in range(1,1000+1):
     QTY_No_Loan = round(Invest_Amount / price, 2)
     QTY_Loan = round((Loan_amount + Invest_Amount) / price, 2)
     Acc_Pay_No_Loan = 0

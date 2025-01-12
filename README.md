@@ -1,4 +1,7 @@
 # Comparison of Leveraged Investment and Direct Investment Returns: Can Borrowing Yield Higher Profits?
+
+![image](Investment.jpg)
+
 ## This study aims to compare the profitability of two approaches, "leveraged investment" and "direct investment without borrowing," using statistical tests to evaluate whether there is a significant difference between the two.
 
 ### Methods and Simulation Design
